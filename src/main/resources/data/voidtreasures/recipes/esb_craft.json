@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    " 4 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:end_stone"
+    },
+    "2": {
+      "item": "minecraft:end_stone"
+    },
+    "4": {
+      "item": "minecraft:nether_star"
+    }
+  },
+  "result": {
+    "item": "voidtreasures:end_stone_bowl",
+    "count": 4
+  }
+}
